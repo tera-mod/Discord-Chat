@@ -10,6 +10,8 @@
 
 npm i discord.js
 
+将 node_modules 复制到 \CaaliTeraProxy\mods\Discord-Chat\
+
 ------------------------
 
 3. https://discordapp.com/developers/applications/
@@ -30,7 +32,7 @@ https://discordapp.com/api/oauth2/authorize?client_id=535000001234567890&scope=b
 
 ------------------------
 
-7. 下载 config.json 和 index.js , 存放\CaaliTeraProxy\mods\Discord-Chat , 配置 config.json
+7. 下载 config.json 和 index.js , 存放\CaaliTeraProxy\mods\Discord-Chat\ , 配置 config.json
 
 token -> [BUILD-A-BOT]的 TOKEN 码
 channel -> Discord[文字聊天]频道的ID (并不是Discord[服务器ID])
