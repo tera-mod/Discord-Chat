@@ -37,4 +37,5 @@
 7. 下载 config.json 和 index.js , 存放\CaaliTeraProxy\mods\Discord-Chat\ , 配置 config.json
 
 	token -> [BUILD-A-BOT]的 TOKEN 码
+	
 	channel -> Discord[文字聊天]频道的ID (并不是Discord[服务器ID])
