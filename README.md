@@ -2,6 +2,12 @@
 
 将TERA客户端中接受到的 [密语消息] 自动转发到Discord[聊天频道]
 
+更多模型参考:
+
+https://github.com/codeagon/Astral-Chat
+
+https://github.com/codeagon/Astral-TERA
+
 ------------------------
 
 因为我常常游戏挂机而错过了一些重要的密语消息, 所以想到为TERA制作1个离线提醒的mod
