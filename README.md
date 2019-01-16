@@ -32,7 +32,7 @@ https://github.com/codeagon/Astral-TERA
 
 	点击 [Click to Reveal Token] 即可见, 例如: NTM1MDY2NzI2NzE1MzU5MjM0.DyCw2w.0jCzz97U0ROMk_-ssZbZi5OlVsQ
 
-6. 将[APP]应用(bot机器人)拉如属于你的Discord语音聊天服务器, 举例: (替换中间的数字后, 在浏览器中打开)
+6. 将[APP]应用(bot机器人)拉入(授权)属于你的Discord语音聊天服务器, 举例: (替换中间的数字后, 在浏览器中打开)
 
 	https://discordapp.com/api/oauth2/authorize?client_id=535000001234567890&scope=bot&permissions=1
 
