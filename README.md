@@ -4,11 +4,17 @@
 
 ------------------------
 
+因为我常常游戏挂机而错过了一些重要的密语消息, 所以想到为TERA制作1个离线提醒的mod
+
+------------------------
+
 1. https://www.npmjs.com/ 搜索 discord.js 模块
 
 2. https://www.npmjs.com/package/discord.js 获取安装命令 npm i discord.js
 
-	将工程目录下载的 node_modules 复制到 \CaaliTeraProxy\mods\Discord-Chat\
+	将默认工程目录下载的 node_modules 复制到 \CaaliTeraProxy\mods\Discord-Chat\
+
+	也可以使用我上传的这个 [node_modules] 文件夹
 
 ------------------------
 
@@ -32,7 +38,3 @@
 
 	token -> [BUILD-A-BOT]的 TOKEN 码
 	channel -> Discord[文字聊天]频道的ID (并不是Discord[服务器ID])
-
-------------------------
-
-因为我常常游戏挂机而错过了一些重要的密语消息, 所以想到为TERA制作1个离线提醒的mod
